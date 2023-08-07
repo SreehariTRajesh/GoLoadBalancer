@@ -1,0 +1,10 @@
+{
+    "ServerCount" : 5 ,
+    "ServerWeightData" : [
+        2,
+        3,
+        1,
+        2,
+        4
+    ]
+}

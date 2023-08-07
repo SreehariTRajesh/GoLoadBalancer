@@ -1,0 +1,5 @@
+package webutils
+
+func RequestLogs() {
+
+}
